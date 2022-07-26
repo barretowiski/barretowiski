@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Barretowiski 😁
+## Bem-vindo(a) ao perfil do Barretowiski ☺️
 
  <div>
    <a href="https://github.com/Barretowiski">
