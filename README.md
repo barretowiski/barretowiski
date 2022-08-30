@@ -14,9 +14,11 @@
  
  <br>
  
-  ### Salve Salve Familia!
+  ### Eaii!
  
 <div>
   <a href="https://instagram.com/Barretoxxl" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
+    ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
 
 </div>
